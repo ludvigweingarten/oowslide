@@ -68,7 +68,6 @@ body {
     display: flex;
     justify-content: space-between; /* Distribute space between items */
     align-items: flex-end; /* Align items to the bottom */
-    mix-blend-mode: difference;
 }.service,.context,.place,.client,.slide-number { /* Added.slide-number */
     transition: opacity 0.5s ease-in-out; /* Add the transition property */
 }
