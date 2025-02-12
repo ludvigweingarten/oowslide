@@ -6,6 +6,24 @@
     "place": "Oslo",
     "client": "Tom Wood"
   },
+  {
+    "src": "contents/hem2.jpg",
+    "type": "image",
+    "service": "Art direction",
+    "context": "Furniture & interiors",
+    "place": "Stockholm",
+    "client": "Hem"
+  },
+
+  {
+    "src": "contents/comis.mp4",
+    "type": "video",
+    "service": "Product design",
+    "context": "Beauty",
+    "place": "Stockholm",
+    "client": "Comis"
+  },
+
     {
       "src": "contents/sja2.mp4",
       "type": "video",
@@ -14,6 +32,7 @@
       "place": "Duved",
       "client": "Studio Jens Assur"
     },
+
     {
         "src": "contents/ag1.jpg",
         "type": "image",
@@ -30,22 +49,8 @@
       "place": "Stockholm",
       "client": "Architects Sweden"
     },
-    {
-      "src": "contents/comis.mp4",
-      "type": "video",
-      "service": "Product design",
-      "context": "Beauty",
-      "place": "Stockholm",
-      "client": "Comis"
-    },
-    {
-      "src": "contents/hem1.jpg",
-      "type": "image",
-      "service": "Art direction",
-      "context": "Furniture & interiors",
-      "place": "Stockholm",
-      "client": "Hem"
-    },
+  
+  
     {
       "src": "contents/img03.jpg",
       "type": "image",
