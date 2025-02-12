@@ -1,0 +1,57 @@
+[    {
+    "src": "contents/orbit1.jpg",
+    "type": "image",
+    "service": "Editorial design",
+    "context": "Fashion & lifestyle",
+    "place": "Oslo",
+    "client": "Tom Wood"
+  },
+    {
+      "src": "contents/sja2.mp4",
+      "type": "video",
+      "service": "Digital design",
+      "context": "Arts & Culture",
+      "place": "Duved",
+      "client": "Studio Jens Assur"
+    },
+    {
+        "src": "contents/ag1.jpg",
+        "type": "image",
+        "service": "Invite",
+        "context": "Arts & Culture",
+        "place": "Stockholm",
+        "client": "Moderna Museet"
+      },
+    {
+      "src": "contents/img02.jpg",
+      "type": "image",
+      "service": "Book design",
+      "context": "Architecture",
+      "place": "Stockholm",
+      "client": "Architects Sweden"
+    },
+    {
+      "src": "contents/comis.mp4",
+      "type": "video",
+      "service": "Product design",
+      "context": "Beauty",
+      "place": "Stockholm",
+      "client": "Comis"
+    },
+    {
+      "src": "contents/hem1.jpg",
+      "type": "image",
+      "service": "Art direction",
+      "context": "Furniture & interiors",
+      "place": "Stockholm",
+      "client": "Hem"
+    },
+    {
+      "src": "contents/img03.jpg",
+      "type": "image",
+      "service": "Packaging",
+      "context": "Fashion & lifestyle",
+      "place": "Berlin",
+      "client": "Savoir Joaillerie"
+    }
+  ]
